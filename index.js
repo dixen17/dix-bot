@@ -31,4 +31,4 @@ member.createDM().then(function (channel){
 channel.send('Bienvenu' + member.displayName)
 })
 })
-bot.login('NzAwNDE3MTUwMzI1ODgyODkw.XpioTQ.5FP0XbWvHQ54a_4FALBqMRV5yYs')
+bot.login(process.env.TOKEN)

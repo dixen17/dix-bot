@@ -1,0 +1,19 @@
+{
+  "name": "dix.bot",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dixen",
+  "license": "ISC",
+  "dependencies": {
+    "avconv": "^3.1.0",
+    "discord.js": "^12.2.0",
+    "ffmpeg": "0.0.4",
+    "node-gyp": "^5.1.1",
+    "opus": "0.0.0",
+    "rebuild": "^0.1.2"
+  }
+}
